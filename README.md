@@ -1,5 +1,11 @@
-# ai-for-medicine-spec
+# AI for medicine specialization
 Coursera specialisation on AI for Medicine
+Comprises of three sets:
+- Diagnosis
+- Prognosis
+- Case Study
+
+## Diagnosis
 
 # What is class imbalance?
 The classic example is a medical dataset like this one.
