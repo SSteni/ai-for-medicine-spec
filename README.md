@@ -15,7 +15,7 @@ The solution to the class imbalance problem is to modify the loss function, to w
 
 - Resampling (Undersampling, Oversampling)
 
-# Neural Network architectures are data hungry. Most times we dont have millions of data, so how to apply these techniques when we dont have so much data?
+# Neural network architectures are data hungry. Most times we dont have millions of data, so how to apply these techniques when we don't have so much data?
 
 One solution is to pre-train the network using general data. Then use the weights to train out custom data (transfer learning). Through pretraining, the netwwork will learn general features such as edges. When we transfer these features to our new network, the network can learn the new task of chest X-ray interpretation with a better starting point. This first step, is called pre-training, and the second step, is called fine-tuning. 
 
