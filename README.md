@@ -65,6 +65,8 @@ Cross-validation to reduce variability in our estimate of the model performance.
 
 3. Positive Predictive Value (PPV) and Negative Predictive Value (NPV)
 
+![alt text](https://github.com/SSteni/ai-for-medicine-spec/blob/main/PPV.png)
 
+![alt text](https://github.com/SSteni/ai-for-medicine-spec/blob/main/NPV.png)
 
 
