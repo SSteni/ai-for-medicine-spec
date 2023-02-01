@@ -53,3 +53,7 @@ Cross-validation to reduce variability in our estimate of the model performance.
 2. Set Sampling : Test set may not always have enough number of samples with masses. One solution to this is to keep Test set with atleast x% minority class. Sometimes set to 50% (50 mass and 50 non-mass). The same sampling strategy is used in sampling the validation set, because we want the validation set to reflect the test set. And finally the remaining samples can be included in the training set.
 3. Ground Truth : Consensus Voting / More definitive test
 
+
+
+![alt text](https://github.com/SSteni/ai-for-medicine-spec/blob/main/Accuracy.png)
+
