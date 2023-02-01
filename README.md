@@ -59,3 +59,7 @@ Cross-validation to reduce variability in our estimate of the model performance.
 
 ![alt text](https://github.com/SSteni/ai-for-medicine-spec/blob/main/Accuracy.png)
 
+2. Accuracy
+
+![alt text](https://github.com/SSteni/ai-for-medicine-spec/blob/main/Accuracy2.png)
+
